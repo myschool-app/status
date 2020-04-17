@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Criação de PDF na versão Beta
-date: "2020-04-08T16:24:33.400Z"
+date: 2020-04-08T16:24:33.400Z
 resolved: false
 informational: true
 resolvedWhen: ""
